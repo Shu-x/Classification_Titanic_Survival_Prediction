@@ -9,3 +9,5 @@ The famous [Kaggle machine learning competition](https://www.kaggle.com/c/titani
 7. Random Forest Classifier
 
 Best model: SVC, testing accuracy = 78%
+
+Summary slides: [Summary.pdf](https://github.com/Shu-x/Classification_Titanic_Survival_Prediction/files/8146122/Summary.pdf)
