@@ -10,4 +10,4 @@ The famous [Kaggle machine learning competition](https://www.kaggle.com/c/titani
 
 Best model: SVC, testing accuracy = 78%
 
-Summary slides: [Summary.pdf](https://github.com/Shu-x/Classification_Titanic_Survival_Prediction/files/8146122/Summary.pdf)
+Read the project's story in the [summary slides](https://github.com/Shu-x/Classification_Titanic_Survival_Prediction/blob/main/Summary.pdf).
